@@ -8,8 +8,8 @@ Simple but effective & useful template
 ## Azure-T3-Network
 This repo is for the Tier 3 part of the 3 tier network.
 
-{:.center}
-![AzureNetworkvNet.jpg](AzureNetworkvNet.jpg)
+
+<center>![AzureNetworkvNet.jpg](AzureNetworkvNet.jpg)</center>
 
 To deploy the most trusted T3 bottom layer of this Azure network:
 
@@ -19,7 +19,3 @@ To deploy the most trusted T3 bottom layer of this Azure network:
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fmarckean%2FAzure-vNet%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
-
-.center {
-  text-align: center;
-}
