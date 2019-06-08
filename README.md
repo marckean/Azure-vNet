@@ -9,7 +9,7 @@ Simple but effective & useful template
 This repo is for the Tier 3 part of the 3 tier network.
 
 
-![AzureNetworkvNet.jpg](AzureNetworkvNet.jpg?style=centerme)
+![AzureNetworkvNet.jpg](AzureNetworkvNet.jpg){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 To deploy the most trusted T3 bottom layer of this Azure network:
 
